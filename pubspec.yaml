@@ -6,13 +6,12 @@ version: 1.0.0+1
 environment:
   sdk: ^3.11.5
 
-#
 dependencies:
   flutter:
     sdk: flutter
 
   cupertino_icons: ^1.0.8
-  dgis_mobile_sdk_map: ^13.4.0
+  dgis_mobile_sdk_map: ^13.3.0
   get: ^4.7.3
   geolocator: ^14.0.2
 
